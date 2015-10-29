@@ -1,0 +1,5 @@
+.vagrant
+Berksfile.lock
+public/bower_components
+public/node_modules
+public/tmp

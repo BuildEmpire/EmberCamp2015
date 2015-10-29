@@ -1,0 +1,16 @@
+{
+  "run_list":[
+    "git",
+    "cookbook_npm"
+  ],
+  "cookbook_npm": {
+    "symlinks": [
+      "/vagrant/public/node_modules",
+      "/vagrant/public/tmp"
+    ],
+    "npm_packages": [
+      "ember-cli",
+      "bower"
+    ]
+  }
+}
